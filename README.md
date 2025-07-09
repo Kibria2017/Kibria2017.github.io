@@ -1,6 +1,13 @@
-Analytics and AI Methods in Biomedical Informatics
+#  Analytics and AI Methods in Biomedical Informatics
 
-List of potential dataset repositories:
+
+              | Chapter Desc. | Data          | Colab       |
+              | ------------- | ------------- | -------------
+              | Intro         | LINK          | LINK        |
+              | Content Cell  | Content Cell  | Content Cell |
+
+
+# List of potential dataset repositories:
 
 UCI:
 ===========================
