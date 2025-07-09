@@ -3,7 +3,7 @@
               | Chapter Desc. | Data          | Colab       |
               | ------------- | ------------- | -------------
               | Intro         | LINK          | LINK        |
-              | Content Cell  | Content Cell  | Content Cell |
+              | TBD           | TBD           | TBD         |
 
 
 # List of potential dataset repositories:
