@@ -11,7 +11,7 @@
 UCI:
 ===========================
 UC IRVINE https://archive.ics.uci.edu/datasets 
-UC IRVINE: Perkinsons: https://archive.ics.uci.edu/dataset/174/parkinsons: Download for mental health
+[Perkinsons](https://archive.ics.uci.edu/dataset/174/parkinsons)
 UC Irvine : Perkinsons: https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring: Download for mental health
 UC Irvine : Perkinsons: https://archive.ics.uci.edu/dataset/301/parkinson+speech+dataset+with+multiple+types+of+sound+recordings: Download for mental health
 UC Irvine : Perkinsons: https://archive.ics.uci.edu/dataset/489/parkinson+dataset+with+replicated+acoustic+features: Download for mental health
