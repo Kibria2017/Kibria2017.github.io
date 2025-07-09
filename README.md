@@ -10,9 +10,9 @@
 
 UCI:
 ===========================
-1. [dataset] (https://archive.ics.uci.edu/datasets)
+1. [Dataset](https://archive.ics.uci.edu/datasets)
 2. [Perkinsons](https://archive.ics.uci.edu/dataset/174/parkinsons) 
-3. [Perkinsons] (https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring)
+3. [Perkinsons telemonitoring](https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring)
 
 UC Irvine : Perkinsons: https://archive.ics.uci.edu/dataset/301/parkinson+speech+dataset+with+multiple+types+of+sound+recordings: Download for mental health
 UC Irvine : Perkinsons: https://archive.ics.uci.edu/dataset/489/parkinson+dataset+with+replicated+acoustic+features: Download for mental health
