@@ -1,6 +1,5 @@
-#  Analytics and AI Methods in Biomedical Informatics
 
-
+# Book Chapters
               | Chapter Desc. | Data          | Colab       |
               | ------------- | ------------- | -------------
               | Intro         | LINK          | LINK        |
